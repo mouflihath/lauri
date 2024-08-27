@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(/img/cake-3669245_1280.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#SHAWARMA{
+    color: azure;
+    align-items: center;
+    text-align: center;
+}
+.sauce{
+    color: blue;
+    line-height: 2;
+    text-align: justify;
+    align-items: center;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#GLACE{
+    color: azure;
+    align-items: center;
+    text-align: center   
+}
+#CHOCOLAT{
+    color: azure;
+    align-items: center;
+    text-align: center 
+}
+#PIZZA{
+    color: azure;
+    align-items: center;
+    text-align: center 
+}
+#SALADE{
+    color: azure;
+    align-items: center;
+    text-align: center 
+}
+#BURGER{
+    color: azure;
+    align-items: center;
+    text-align: center 
+}
+
+    

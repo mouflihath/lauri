@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(/img/ice-cubes-1224804_1280.jpg);
+     background-position: center ;
+}
+
+.la{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 100vh;
+    gap: 30px;
+   }
+    
+
+    
+    
+    
+.la img{
+        width: 170px;
+        height:auto;
+
+        border: solid white;
+       
+    }
+
+    
+figcaption{
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+    color: antiquewhite;
+    }
+
+h1{
+    color: aliceblue;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-align: center;
+    align-items: center;
+    padding: 0px;
+    margin: 0px
+     }
